@@ -38,7 +38,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>script</key>
-				<string>./thunder.js {query}</string>
+				<string>./thunder.scpt</string>
 				<key>type</key>
 				<integer>0</integer>
 			</dict>
@@ -53,15 +53,15 @@
 			<key>config</key>
 			<dict>
 				<key>argumenttype</key>
-				<integer>1</integer>
+				<integer>2</integer>
 				<key>keyword</key>
-				<string>xl</string>
+				<string>xz</string>
 				<key>subtext</key>
 				<string>快速添加链接到迅雷</string>
 				<key>text</key>
 				<string>迅雷下载</string>
 				<key>withspace</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
