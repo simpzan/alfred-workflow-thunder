@@ -6,4 +6,4 @@
 [Alfred_Thunder.alfredworkflow](./Alfred_Thunder.alfredworkflow)
 
 ## Requirement
-本workflow使用的Applescript脚本需要系统复制权限，请到`偏好设置 - 安全与隐私 - 辅助`添加Alfred程序。
+本workflow使用的Applescript脚本需要系统辅助权限，请到`偏好设置 - 安全与隐私 - 辅助`添加Alfred程序。
